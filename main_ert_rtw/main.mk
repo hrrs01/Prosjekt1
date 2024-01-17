@@ -2,7 +2,7 @@
 ## Makefile generated for component 'main'. 
 ## 
 ## Makefile     : main.mk
-## Generated on : Thu Jan 11 09:59:04 2024
+## Generated on : Wed Jan 17 08:35:10 2024
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/main.elf
 ## Product type : executable
 ## 
