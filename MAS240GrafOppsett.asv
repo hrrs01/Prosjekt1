@@ -1,0 +1,6 @@
+fasit = fasit{1}.Values % Fasit as a timeseries
+modell = justert{1}.Values % Fasit + Roomtemp as timeseries
+hold on
+grid 
+plot(fasit)
+plot(modell)
